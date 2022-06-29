@@ -1,0 +1,185 @@
+.header-wrapperis {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    background-color: rgb(5, 164, 218);
+    width: 100%;
+    flex-grow: 1;
+    color: white;
+}
+
+.hd-antras-wrappers-cw {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.antras-cw-wrappers {
+    justify-content: center;
+    width: 30%;
+}
+.pirmas-cw {
+    display: flex;
+    align-items: center;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.pirmas-cw-border {
+    border-left: 1px solid white;
+    height: 30px;
+}
+
+.antras-cw-antras-wrapperis {
+    display: flex;
+    justify-content:center ;
+}
+
+.antras-cw-pirmas {
+    align-items: center;
+    padding-left: 10px;
+}
+
+.antras-cw {
+    display: block;
+    text-align: center;
+    font-size: 40px;
+}
+
+.antras-cw-pirmas {
+    display: block;
+    flex-direction: row;
+}
+
+.trecias-cw {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.trecias-cw-pirmas {
+    border: solid rgb(167, 167, 252);
+    border-radius: 3px;
+    padding: 10px 30px 10px 30px;
+
+}
+
+.trecias-cw-antras {
+    border: solid rgb(167, 167, 252);
+    border-radius: 3px;
+    padding: 10px 20px 10px 20px;
+    margin:10px;
+
+}
+
+.skirtukas {
+    display: flex;
+    width: 10px;
+    height: 10px;
+    background-color: white;
+}
+
+.nav-wrappers {
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+}
+
+.juostos-mygtukai {
+    text-align: center;
+    border: 2px solid white;
+    background-color: rgb(69, 69, 136);
+    padding: 20px;
+    width: 20%;
+    height: 20px;
+}
+.juostos-mygtukai:hover {
+    background-color: rgb(45, 45, 88);
+}
+
+.wallpaper-elements {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 30px;
+}
+
+/*.img-wrappers {
+    margin-top: 50px;
+}*/
+
+.paveiksliukas {
+    width: 90%;
+}
+
+.text-wrapperis {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 80px;
+    background-image:url(onebook.jpg);
+    width: 100%;
+    height: 400px;
+ }
+
+.wallpp-text {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    color: white;
+}
+
+.text-border-bottom {
+    border-bottom: 3px solid white;
+}
+
+.text-border-top {
+    border-top: 3px solid white;
+    padding: 0px;
+    width: 765px;
+}
+
+.eng{
+    display: flex;
+    background-color: rgb(50, 151, 50);
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    height: 100px;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.eng1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30%;
+    padding: 20px;
+}
+
+.eng2 {
+    display: flex;
+    align-items: center;
+    text-align: justify;
+    background-color: rgb(50, 151, 50);
+    font-size: large;
+    width: 60%;
+
+}
+
+.text-stulpeliu-wrapperis {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.text-stulpelis {
+    border: 1px solid black;
+    background-color: rgb(226, 238, 242);
+    padding: 10px;
+    width: 30%;
+    height: 300px;
+}
